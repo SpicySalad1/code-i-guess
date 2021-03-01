@@ -1,0 +1,1 @@
+hitSpeed = 1;
